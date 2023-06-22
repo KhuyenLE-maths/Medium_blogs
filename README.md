@@ -1,4 +1,4 @@
-# Blogs of machine learning and deep learning 
+# Blogs on machine learning and deep learning 
 
 **Contents**
 1. [Convolutional Neural Network](https://github.com/KhuyenLE-maths/Medium_blogs/tree/main/CNN_MNIST)
