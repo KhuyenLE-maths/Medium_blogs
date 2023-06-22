@@ -9,3 +9,4 @@
 6. A quick overview of ResNet models
 7. Transfer learning
    
+(to be continued)
