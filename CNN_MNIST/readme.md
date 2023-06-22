@@ -10,5 +10,5 @@ A basic convolutional neural network includes an input layer, hidden layers, and
 
 The detailed introduction to the CNN model, as well as the inside operations, are presented in [my blog](https://medium.com/mlearning-ai/convolutional-neural-networks-3f00c165c9d9).
 
-In this project, we are going to build a basic CNN model to classify MNIST handwritten digit images.
-[Notebook](https://github.com/KhuyenLE-maths/Medium_blogs/blob/main/CNN_MNIST/CNN_MNIST.ipynb)
+In this [notebook](https://github.com/KhuyenLE-maths/Medium_blogs/blob/main/CNN_MNIST/CNN_MNIST.ipynb), we are going to build a basic CNN model to classify MNIST handwritten digit images.
+
